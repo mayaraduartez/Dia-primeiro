@@ -1,62 +1,56 @@
 1 Bia
-1 Bia Rebelato 4 + 12 + 10.5 + 7 + 7.5 + 4 Total 45.00
-1 Bia VELEDA 3.5 + 4 + 3.5 + 7 + 7 + 7 Total 32.00
-1 Bia Vinicius 4 + 3.5 + 3.5 Total 11.00
-1 Bia Hubner 7.5 + 7.5 + 3.5 + 7 Total 25.50
-1 Bia Hector 7.5 + 7 + 4 + 7 Total 25.50
-1 Bia Veleda 7 Total 7.00
-1 Bia Gabriel Mendes 10.5 + 14 + 7 + 14 Total 45.50
-1 Bia Sharlan 7.5 + 28 + 29 + 10.5 + 28 + 17.5 Total 120.50
-1 Bia Massaque 10.5 + 7 Total 17.50
-1 Bia Dedinho 7 Total 7.00
-1 Bia Laguna 7 Total 7.00
+1 Bia Laguna 7.5 + 10.5 Total 18.00
+1 Bia Lucas Rodrigues 10.5 + 3.5 + 7.5 Total 21.50
+1 Bia Hubner 3.5 + 7.5 Total 11.00
+1 Bia VELEDA 7.5 + 3.5 + 15 + 7.5 Total 33.50
+1 Bia Hector 3.5 + 7.5 Total 11.00
+1 Bia Moraes 3.5 + 7 + 4 + 8 Total 22.50
+1 Bia Gabriel Mendes 14 + 15 Total 29.00
+1 Bia Camargo 8 Total 8.00
+1 Bia Madeira 4 Total 4.00
+1 Bia Vinicius 7 Total 7.00
 
 2 Bia
-2 Bia Michel 19.5 + 27.5 + 3 Total 50.00
-2 Bia Metler 20 Total 20.00
-2 Bia De Souza 15 + 17.5 Total 32.50
-2 Bia Bueno 36 + 11.5 + 21 + 24.5 + 3.5 + 21.5 + 30.5 + 33 Total 181.50
-2 Bia Julyeverson 3.5 Total 3.50
-2 Bia Deryc 7 + 10.5 + 7 + 3.5 + 3.5 Total 31.50
-2 Bia Dotto 4 Total 4.00
-2 Bia Vitor Leal 4 + 10.5 + 4 + 3.5 + 3.5 + 4 Total 29.50
-2 Bia Ruan 3.5 + 3.5 + 3.5 + 3.5 Total 14.00
-2 Bia Alan Morais 10.5 + 7.5 + 10.5 + 11 + 11 Total 50.50
-2 Bia Velozo 7 + 14 + 7 + 14 + 17.5 + 17.5 Total 77.00
-2 Bia Nogueira 7.5 + 7 + 3.5 Total 18.00
-2 Bia Araújo 8 + 7 Total 15.00
-2 Bia Schiavon 4 Total 4.00
-2 Bia Moreira 11 + 3.5 + 7 + 7 Total 28.50
-2 Bia Lucas Rodrigues 7 + 3.5 Total 10.50
-2 Bia Berdet 10.5 Total 10.50
-2 Bia André 10.5 Total 10.50
-2 Bia Rafael 3.5 Total 3.50
+2 Bia Michel 7 + 28 + 28 + 14 + 3.5 + 4 + 10.5 Total 95.00
+2 Bia De Souza 10.5 + 7 + 7.5 Total 25.00
+2 Bia André 14.5 Total 14.50
+2 Bia Moreira 10.5 + 11 Total 21.50
+2 Bia Velozo 14 + 7 + 7 Total 28.00
+2 Bia Ruan 3.5 + 3.5 Total 7.00
+2 Bia Allan Moraes 7.5 Total 7.50
+2 Bia Nogueira 7.5 Total 7.50
+2 Bia Santana  17.5 Total 17.50
+2 Bia Borges 3.5 + 3.5 + 3.5 Total 10.50
+2 Bia Deryc 7 + 3.5 Total 10.50
+2 Bia Rafael 4 Total 4.00
+2 Bia Maurício Duarte 17 Total 17.00
+2 Bia Meme 8 Total 8.00
 
 3 Bia
-3 Bia Juliander 10.5 + 3.5 + 3.5 Total 17.50
-3 Bia Romes 3.5 Total 3.50
-3 Bia Erik 7.5 Total 7.50
-3 Bia Jacinto 14.5 + 10.5 Total 25.00
-3 Bia Kaue 7 + 3.5 + 3.5 Total 14.00
-3 Bia Pereira Nunes 3.5 + 4 Total 7.50
-3 Bia Romulo 7 Total 7.00
-3 Bia Dos Santos 3.5 Total 3.50
-3 Bia Carlos 12 Total 12.00
-3 Bia Pereira Costa 8 Total 8.00
-3 Bia Roberta Silva 8 Total 8.00
+3 Bia Roberto Silva 7.5 + 7 + 12 Total 26.50
+3 Bia Romes 3.5 + 8 Total 11.50
+3 Bia Romulo 4 Total 4.00
+3 Bia Farias 7 + 3.5 Total 10.50
+3 Bia Kaue 3.5 + 3.5 Total 7.00
+3 Bia Carlos 8 Total 8.00
+3 Bia Roger 4 Total 4.00
+3 Bia Alvaro 4 Total 4.00
+3 Bia De Melo 3.5 Total 3.50
 
 Bc
-Bc Domingues 7.5 + 18.5 + 7 + 7 Total 40.00
-Bc Acosta 18.5 + 10.5 + 7 + 11 + 11 Total 58.00
-Bc Frederico 3.5 + 7.5 + 7.5 Total 18.50
-Bc Luís Eli 3.5 Total 3.50
-Bc Pierre Mendes 11 + 4 + 11 Total 26.00
-Bc Lorenzo 10.5 Total 10.50
+Bc Pierre Mendes 14.5 + 3.5 + 10.5 Total 28.50
+Bc Acosta 10.5 Total 10.50
+Bc Kaua Rodrigues 10.5 Total 10.50
+Bc Frederico 4 Total 4.00
+Bc Rios 7 Total 7.00
+Bc Rubensmar 7.5 + 11 Total 18.50
+Bc Dapper 1.5 Total 1.50
+Bc Lorenzo 14.5 + 3.5 Total 18.00
+Bc Luís Eli 10.5 Total 10.50
+Bc Domingues 8 + 3.5 Total 11.50
+Bc Emerson Silva 4 Total 4.00
 
 Sgt
-Sgt Adrian 8 Total 8.00
-Sgt Roni 13 Total 13.00
-Sgt Amaro 8 Total 8.00
-Sgt Hesdras 3.5 Total 3.50
+Sgt Erik 3.5 Total 3.50
 
-Total da lista: 1240.50
+Total da lista: 646.00
